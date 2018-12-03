@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/depfutest/devfu.git
   revision: b2e5370c56add22da3c99de529a2d0b6a3326914
-  ref: master
+  ref: new-version
   specs:
     testfu (1.0.0)
 
