@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/depfutest/devfu.git
-  revision: b2e5370c56add22da3c99de529a2d0b6a3326914
+  revision: 0d925456187b86839c7547a22db462efa7dfd757
   ref: new-version
   specs:
-    testfu (1.0.0)
+    testfu (2.1.0)
 
 GEM
   remote: https://rubygems.org/
